@@ -1,0 +1,6 @@
+- Website dibuat menggunakan React.JS
+- Website memiliki beberapa halaman yang harus ada yaitu: Beranda, Tentang Kami, Artikel
+- Sebagai referensi website dapat melihat web ini https://sahamrakyat.com/, https://ajaib.co.id/, https://stockbit.com/
+- Pembuatan webiste tidak harus semirip mungkin yang terpenting adalah komponen seperti Beranda, Tentang Kami dan Artikel harus ada (dijadikan dalam 1 landing page saja).
+- Penggunaan Framework selain Bootstrap di persilahkan.
+- Menerapkan yang sudah di ajarkan sebelumnya. 
